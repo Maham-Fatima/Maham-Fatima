@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maham-Fatima
-- 👀 I’m interested in data science, web development, softfware development
+- 👀 I’m interested in data science, web development, software development
 - 🌱 I’m currently studying BS(SE) at Fast university, Karachi. 
 - 💞️ I’m looking to collaborate on projects written in Java and python
 
